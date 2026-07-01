@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+.env
+*.db
+venv/
+.venv/
+data/knowledge_base/chroma_db/
+*.egg-info/
+dist/
+build/
+.idea/
+.vscode/
+*.log
